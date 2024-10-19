@@ -1,12 +1,16 @@
-# Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
-
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
-
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+  - skill: Programming & Scripting
+    description: Python, PowerShell
+  - skill: Systems & Networking
+    description: Windows, Linux, DHCP, TCP/IP, DNS, LAN, Microsoft Windows Server, Active Directory
+  - skill: Microcontrollers & Development Boards
+    description: ESP32s, Arduinos, Raspberry Pi Picos, Raspberry Pis
+  - skill: Software Proficiency
+    description: VMware, CAD, Adobe suite, automation services
+  - skill: Troubleshooting & Support
+    description: Desktop support, help desk, network support, software troubleshooting, IT support, customer support
+  - skill: Server Management & Networking
+    description: Experienced in configuring and managing Microsoft Windows Server, Active Directory, remote access software, and implementing network services such as DHCP, LAN, TCP/IP, and DNS
+  - skill: Design & Documentation
+    description: Graphic design, organizational skills, creating and maintaining comprehensive technical documentation
+  - skill: Tools & Technologies
+    description: Proficient in using Git, Linux, Docker, Adobe Products, VMware, CAD for various projects and applications

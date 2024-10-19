@@ -1,5 +1,10 @@
-# links
-- url: "#"
-  description: Springfield Jazz Enthusiasts
-- url: "#"
-  description: Springfield Young Professionals
+# Links
+
+- url: "https://github.com/tinkernerd"
+  description: GitHub - The Tinkering Nerd
+
+- url: "https://linkedin.com/in/nicholasstull"
+  description: LinkedIn - Nicholas Stull
+
+- url: "https://nicholasstull.com"
+  description: Personal Website - The Tinkering Nerd
